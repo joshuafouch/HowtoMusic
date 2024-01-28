@@ -22,6 +22,7 @@ int main()
 	}
 
 	cout << "ok bye;";
+	cout << "ok bye my friend";
 
 	return 0;
 }
